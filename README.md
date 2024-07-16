@@ -1,1 +1,2 @@
 # EduAdmin
+EduAdmin is a comprehensive educational administration application developed using Java for backend functionality and an Android application for frontend user interaction. The project aims to streamline various administrative tasks within educational institutions, including managing student records, handling exam results, displaying notices, and facilitating departmental communications.
